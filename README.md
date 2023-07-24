@@ -1,1 +1,1 @@
-# Maps
+Maps for EQMacEmu Server
